@@ -1,3 +1,7 @@
 1. To see the log of the git-server:
 
 docker logs -f git-server
+
+2. To execute docker
+
+docker exec -ti jenkins bash
